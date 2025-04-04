@@ -1,5 +1,2 @@
-# Sedna for Minecraft
-
-Library mod for Minecraft bundling [Sedna], a pure Java RISC-V emulator, containing an updated version of buildroot.
-
-[Sedna]: https://github.com/fnuecke/sedna
+### New builds of oc2r include this by default, use those instead.
+### https://www.curseforge.com/minecraft/mc-mods/oc2r
